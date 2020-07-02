@@ -22,7 +22,7 @@ def get_filters():
         if (city=="new york city" or city=="chicago" or city=="washington"):
             break
         else:
-            print("\nEnter one of the options please")
+            print("\nEnter one of the available options please")
 
 
     # TO DO: get user input for month (all, january, february, ... , june)
@@ -31,7 +31,7 @@ def get_filters():
         if (month=="january" or month=="february" or month=="march" or month=="april" or month=="may" or month=="june" or month=="all"):
             break
         else:
-            print("\nEnter one of the options please")
+            print("\nEnter one of the available options please")
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     while(True):
@@ -39,7 +39,7 @@ def get_filters():
         if (day=="monday" or day=="tuesday" or day=="wednesday" or day=="thursday" or day=="friday" or day=="saturday" or day=="sunday" or day=="all" ):
             break
         else:
-            print("\nEnter one of the options please")
+            print("\nEnter one of the available options please")
 
     print('-'*40)
     return city, month , day
