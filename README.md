@@ -9,10 +9,9 @@ Used python to explore the biksshare data and find important information or answ
 
 ### Files used
 Chicago.csv
-New_york_city.csv
-Washington.csv
+, New_york_city.csv
+, Washington.csv
 
 
 ### Credits
-
-
+I would like to thank bilal :)
