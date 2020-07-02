@@ -39,7 +39,7 @@ def get_filters():
         if (day=="monday" or day=="tuesday" or day=="wednesday" or day=="thursday" or day=="friday" or day=="saturday" or day=="sunday" or day=="all" ):
             break
         else:
-            print("\nEnter one of the options please")
+            print("\nEnter one of the available options please ")
 
     print('-'*40)
     return city, month , day
