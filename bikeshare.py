@@ -115,7 +115,7 @@ def station_stats(df):
 
     print('\nCalculating The Most Popular Stations and Trip...\n')
     start_time = time.time()
-
+#displaying the most common used starting station like follows
     # TO DO: display most commonly used start station
     print("Most commonly used start station: ", df['Start Station'].value_counts().idxmax())
 
