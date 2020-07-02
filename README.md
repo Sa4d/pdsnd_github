@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+7/2/2020
 
 ### Project Title
-Replace the Project Title
+Exploring US bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+same as documentation but I edited the input questions 
 
 ### Files used
-Include the files used
+washington , new york , chicago 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+Thanks to bilal :)
